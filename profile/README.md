@@ -10,6 +10,7 @@ We meet over Zoom, if you'd like to join please use [this](https://armltd.zoom.u
 
 ## Repositories
 
-* [Attested TLS specification](https://github.com/tls-attestation/draft-tls-attestation)
-* [Presentation materials1](https://github.com/tls-attestation/materials)
-* [Presentation materials2](https://github.com/CCC-Attestation/formal-spec-KBS)
+* [Attested TLS specification (intra-handshake)](https://github.com/tls-attestation/draft-tls-attestation)
+* [Attested TLS specification (post-handshake)](https://github.com/tls-attestation/exported-attestation)
+* [Presentation materials](https://github.com/tls-attestation/materials)
+* [More presentation materials](https://github.com/CCC-Attestation/formal-spec-KBS)
