@@ -11,6 +11,7 @@ We meet over Zoom, if you'd like to join please use [this](https://armltd.zoom.u
 ## Repositories
 
 * [Exported Authenticators (expat) aTLS BoF charter](https://github.com/tls-attestation/expat-charter)
+* [Use Cases and Properties document](https://github.com/tls-attestation/use-cases-and-properties)
 * [Attested TLS specification (intra-handshake)](https://github.com/tls-attestation/draft-tls-attestation)
 * [Attested TLS specification (post-handshake)](https://github.com/tls-attestation/exported-attestation)
 * [Presentation materials](https://github.com/tls-attestation/materials)
