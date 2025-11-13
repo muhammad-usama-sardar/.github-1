@@ -2,7 +2,7 @@ This is the home of the Attested TLS project.
 
 ## Meetings
 
-We hold public weekly meetings at 10 AM CET/9 AM London time.
+We hold public weekly meetings at 10 AM CET/9 AM London time on Mondays.
 
 For more precise access to our meeting schedule, please see the following [calendar](https://calendar.google.com/calendar/u/0?cid=Y181YjM5Zjg3NDdkZDIwYjhlZGVhOWMxZDM1YWRhYjA2NTE2Yzg3NDU0OGEyM2JiMmU3Y2M2YTc4OWQ3ZTk0MTMyQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20).
 
